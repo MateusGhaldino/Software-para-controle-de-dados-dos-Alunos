@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1614351763 source:c:\users\mateu\onedrive\documentos\2 período - 2020.2\estrutura de dados 1\projetos\trabalho-pratico_2\listaaluno.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"listaaluno.h"
+	"menu.h"
+	"Aluno.h"
+	"utilitarios.h"
+	"lista_Disciplinas.h"
+
+1614345857 c:\users\mateu\onedrive\documentos\2 período - 2020.2\estrutura de dados 1\projetos\trabalho-pratico_2\menu.h
+
+1614351924 c:\users\mateu\onedrive\documentos\2 período - 2020.2\estrutura de dados 1\projetos\trabalho-pratico_2\listaaluno.h
+
+1614904031 source:c:\users\mateu\onedrive\documentos\2 período - 2020.2\estrutura de dados 1\projetos\trabalho-pratico_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"menu.h"
+	"Aluno.h"
+	"utilitarios.h"
+	"Lista.h"
+
+1614990596 source:c:\users\mateu\onedrive\documentos\2 período - 2020.2\estrutura de dados 1\projetos\trabalho-pratico_2\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"menu.h"
+	"Aluno.h"
+	"utilitarios.h"
+	"Lista.h"
+
+1614904057 c:\users\mateu\onedrive\documentos\2 período - 2020.2\estrutura de dados 1\projetos\trabalho-pratico_2\aluno.h
+
+1614948186 source:c:\users\mateu\onedrive\documentos\2 período - 2020.2\estrutura de dados 1\projetos\trabalho-pratico_2\aluno.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"Aluno.h"
+	"menu.h"
+	"utilitarios.h"
+	"Lista.h"
+
+1614345280 c:\users\mateu\onedrive\documentos\2 período - 2020.2\estrutura de dados 1\projetos\trabalho-pratico_2\utilitarios.h
+
+1614904025 source:c:\users\mateu\onedrive\documentos\2 período - 2020.2\estrutura de dados 1\projetos\trabalho-pratico_2\utilitarios.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"utilitarios.h"
+	"Aluno.h"
+	"menu.h"
+	"Lista.h"
+
+1614345653 source:c:\users\mateu\onedrive\documentos\2 período - 2020.2\estrutura de dados 1\projetos\trabalho-pratico_2\listadisciplinas.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"listadisciplinas.h"
+	"utilitarios.h"
+	"listaaluno.h"
+	"menu.h"
+	"Aluno.h"
+
+1614280941 c:\users\mateu\onedrive\documentos\2 período - 2020.2\estrutura de dados 1\projetos\trabalho-pratico_2\listadisciplinas.h
+
+1614351833 c:\users\mateu\onedrive\documentos\2 período - 2020.2\estrutura de dados 1\projetos\trabalho-pratico_2\lista_disciplinas.h
+
+1614349901 source:c:\users\mateu\onedrive\documentos\2 período - 2020.2\estrutura de dados 1\projetos\trabalho-pratico_2\lista_disciplinas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista_Disciplinas.h"
+	"Aluno.h"
+	"listaaluno.h"
+	"menu.h"
+	"utilitarios.h"
+
+1614960542 c:\users\mateu\onedrive\documentos\2 período - 2020.2\estrutura de dados 1\projetos\trabalho-pratico_2\lista.h
+
+1614960599 source:c:\users\mateu\onedrive\documentos\2 período - 2020.2\estrutura de dados 1\projetos\trabalho-pratico_2\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Lista.h"
+	"Aluno.h"
+	"menu.h"
+	"utilitarios.h"
+
+1614992563 source:c:\users\mateu\onedrive\documentos\2 período - 2020.2\estrutura de dados 1\projetos\trabalho-pratico_2\grava.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"menu.h"
+	"Aluno.h"
+	"utilitarios.h"
+	"Lista.h"
+
